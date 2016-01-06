@@ -9,6 +9,9 @@
     tools:showIn="@layout/activity_main">
 
     <com.alious.refresh.pulllibrary.view.PullToRefreshBase
+        android:id="@+id/pull_to_refresh_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
+
+
 </RelativeLayout>
